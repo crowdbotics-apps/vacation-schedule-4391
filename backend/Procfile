@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vacation_schedule_4391.wsgi:application
